@@ -5,10 +5,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS%20%7C%20Windows%20%7C%20Linux-supported-blue" alt="지원 플랫폼" />
-  <a href="https://github.com/newmes/labo/releases"><img src="https://img.shields.io/badge/Download-Releases-brightgreen" alt="다운로드" /></a>
+  <a href="https://github.com/newmes/labo-local/releases"><img src="https://img.shields.io/badge/Download-Releases-brightgreen" alt="다운로드" /></a>
 </p>
 
-<h3 align="center"><a href="https://github.com/newmes/labo/releases"><ins>다운로드</ins></a> · <a href="https://labo.parrotvox.com">웹사이트</a></h3>
+<h3 align="center"><a href="https://github.com/newmes/labo-local/releases"><ins>다운로드</ins></a> · <a href="https://labo.parrotvox.com">웹사이트</a></h3>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## 설치
 
-[Releases](https://github.com/newmes/labo/releases)에서 운영체제에 맞는 설치본을 받으세요.
+[Releases](https://github.com/newmes/labo-local/releases)에서 운영체제에 맞는 설치본을 받으세요.
 
 | OS | 파일 |
 |---|---|
