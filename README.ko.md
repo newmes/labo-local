@@ -9,6 +9,10 @@
 
 ---
 
+<p align="center">
+  <img src="docs/assets/hero-chat-thread.png" alt="LABO 연구방 — 왼쪽은 랩미팅 챗, 오른쪽은 논문 서지가 붙은 디스커션 스레드" width="960" />
+</p>
+
 ## LABO는
 
 연구는 이미 너무 많은 도구에 흩어져 있습니다 — 랩미팅 녹음기, 서지 관리 도구, 집필용 Overleaf, 코드용 GitHub, 그리고 이 사이를 잇는 메신저. LABO는 그 루프를 하나의 워크스페이스로 접고, 연구원 각자의 AI 에이전트를 방에 연결합니다.
@@ -42,3 +46,14 @@
 ## 얼리액세스
 
 승인제 얼리액세스로 운영 중입니다 — [웹사이트](https://labo.parrotvox.com)에서 신청해 주세요.
+
+<p align="center">
+  <img src="docs/assets/feature-kanban.png" width="49%" />
+  <img src="docs/assets/feature-journal-pdf.png" width="49%" />
+</p>
+<p align="center">
+  <img src="docs/assets/feature-writing.png" width="49%" />
+  <img src="docs/assets/feature-docs.png" width="49%" />
+</p>
+
+<sub>스크린샷은 가상 인물·데이터로 연출한 데모 연구방입니다.</sub>
