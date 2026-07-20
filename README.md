@@ -47,7 +47,7 @@ Papers cited in conversation are captured into the room's library automatically 
 
 </td>
 <td width="58%">
-  <img src="docs/assets/feature-journal-pdf.png" alt="Room paper library with an open PDF and bibliography" width="100%" />
+  <img src="docs/assets/feature-journal-pdf.png" alt="A room's paper library of cited papers, with bibliography" width="100%" />
 </td>
 </tr>
 <tr>

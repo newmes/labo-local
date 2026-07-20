@@ -1,7 +1,7 @@
 <h1 align="center">LABO</h1>
 
 <p align="center"><strong>Lab Orchestrator — 연구실을 위한 AI 협업 워크스페이스</strong><br/>
-회의, 문헌, 집필, 개발 — 연구실의 일이 한곳에서 이어집니다.</p>
+회의, 문헌, 집필, 개발까지 연구실의 일이 한곳에서 이어집니다.</p>
 
 <p align="center"><sub><a href="README.md">English</a> · 한국어</sub></p>
 
@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="docs/assets/hero-chat-thread.png" alt="LABO 연구방 — 왼쪽은 랩미팅 챗, 오른쪽은 논문 서지가 붙은 디스커션 스레드" width="960" />
+  <img src="docs/assets/hero-chat-thread.png" alt="LABO 연구방: 왼쪽은 랩미팅 챗, 오른쪽은 논문 서지가 붙은 디스커션 스레드" width="960" />
 </p>
 
 ## LABO는
@@ -23,13 +23,13 @@
 | **문헌 서재** | 대화에 인용한 논문이 PDF·디스커션·필기와 함께 방 서재에 자동 등록됩니다. |
 | **LaTeX 집필** | 문헌과 같은 방에서 초안부터 컴파일까지 이어집니다. |
 | **개발 세션** | 각자 쓰는 코딩 에이전트(Claude Code · Codex · Cursor)를 방에 연결합니다. |
-| **봇 함대** | 모든 에이전트를 한 화면에서 — 폰에서도 — 지켜봅니다. |
+| **봇 함대** | 모든 에이전트를 한 화면에서, 폰에서도 지켜봅니다. |
 
 ## 로컬 우선
 
 연구 데이터는 **내 컴퓨터**에 저장됩니다. LABO는 데스크탑 앱으로 설치되어 백엔드도 로컬에서 돌아갑니다. 대화·문서·논문을 중앙 서버에 쌓아 두지 않습니다. 팀원과 방을 공유할지는 선택이고, 공유할 때도 서버에 맡기는 방식이 아니라 종단 간 중계를 거칩니다.
 
-**추가 AI 요금이 없습니다.** LABO는 AI 사용권을 되팔지 않습니다 — 이미 쓰고 있는 Claude Code / Codex / Cursor 구독을 그대로 연결하면 됩니다.
+**추가 AI 요금이 없습니다.** LABO는 AI 사용권을 되팔지 않습니다. 이미 쓰고 있는 Claude Code / Codex / Cursor 구독을 그대로 연결하면 됩니다.
 
 ## 설치
 
